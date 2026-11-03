@@ -1,118 +1,62 @@
 # Erdal Kilic
 
-### Senior SDET | QA Automation Engineer | AI Automation Engineer
+### Senior SDET | QA Automation Engineer
 
-**Building intelligent software quality solutions through AI, automation, and cloud engineering.**
+I build automated tests for web applications and APIs, integrate them into CI/CD pipelines, and investigate failures across UI, service, and database layers.
 
-[eAI Engineering — INTELLIGENCE ENGINEERED](https://www.eai.engineering)
+**9+ years in software quality engineering** across financial services, healthcare, and media. Based in New Jersey and seeking **fully remote Senior SDET / QA Automation Engineer roles**.
 
----
+[Website](https://www.eai.engineering) · [LinkedIn](https://www.linkedin.com/in/erdalkilic/) · [Email](mailto:erdal@eai.engineering)
 
-## Professional Summary
+## Selected projects
 
-Senior Software Development Engineer in Test (SDET) specializing in software quality engineering, test automation, API testing, and AI-assisted development.
+### [Playwright AI Automation](https://github.com/kilicerdal/playwright-ai-automation)
 
-Experienced in designing and implementing automated testing solutions for complex enterprise applications, integrating quality engineering practices into CI/CD pipelines, and improving software reliability through automation.
+A Playwright and TypeScript portfolio framework for UI, API, and end-to-end testing.
 
-Focused on combining traditional test automation frameworks with Generative AI and modern cloud technologies to develop intelligent, scalable, and maintainable engineering solutions.
+- Page Objects, custom fixtures, and deterministic test-data builders.
+- API clients and Zod contract validation.
+- GitHub Actions quality gates and failure artifacts, including traces and reports.
+- AI tools support development and review; tests run without an AI service.
 
----
+**Stack:** Playwright, TypeScript, Zod, GitHub Actions.
 
-## eAI Engineering
+### [AI Healthcare Quality Platform](https://github.com/kilicerdal/ai-healthcare-quality-platform)
 
-### INTELLIGENCE ENGINEERED
+A healthcare claims testing project covering APIs, persistence, and event-driven integration.
 
-eAI Engineering is my AI-powered software quality engineering and learning platform, designed to demonstrate practical applications of artificial intelligence in software testing, automation, and developer productivity.
+- Playwright API tests, AJV contract checks, and PostgreSQL validation.
+- S3 and SQS integration testing using local Moto simulation.
+- Local Ollama integration for test suggestions, failure analysis, and risk explanations.
+- Synthetic data only; this is a portfolio project with simulated AWS services.
 
-**Platform Capabilities**
+**Stack:** JavaScript, Node.js, Express, Playwright, PostgreSQL, AWS SDK, Moto, Ollama.
 
-- AI-assisted test generation and improvement
-- Intelligent test failure analysis
-- Software quality engineering dashboards
-- GitHub failure investigation
-- AI-powered study assistance
-- AI Writing Studio
+### [eAI Engineering](https://github.com/kilicerdal/eai-engineering) · [Live website](https://www.eai.engineering)
 
-**Technology Stack**
+My independent AI engineering and learning platform. I design and maintain the web interface, server-side AI integrations, conversation tools, and learning workflows.
 
-Next.js | React | TypeScript | Tailwind CSS | Cloudflare Workers AI | Vercel
+**Built and deployed:** an engineering AI assistant for coding, debugging, testing, code review, and AWS questions; a learning studio with AI tutoring, learning plans, linked materials, lesson checks, and a mistake notebook.
 
-**Live Platform:** [www.eai.engineering](https://www.eai.engineering)
+**Ongoing development:** expanding AI-assisted test generation and failure-analysis workflows, improving response quality, and refining learning tools.
 
-**GitHub Repository:** [eai-engineering](https://github.com/kilicerdal/eai-engineering)
+**Stack:** Next.js, React, TypeScript, Tailwind CSS, AI/LLM integrations, Supabase, Vercel.
 
----
+## Engineering skills
 
-## Technical Expertise
+| Area | Tools and practices |
+| --- | --- |
+| UI automation | Playwright, Selenium, Cypress |
+| API testing | REST Assured, Postman, Karate, REST APIs |
+| Languages | Java, TypeScript, JavaScript, Python, SQL |
+| Delivery | Git, GitHub Actions, Jenkins, GitLab CI/CD |
+| Quality engineering | Regression testing, contract testing, database validation, failure investigation |
+| Cloud and AI | AWS, LLM integration, AI-assisted testing |
 
-| Category | Technologies |
-|---|---|
-| Programming Languages | Java, Python, TypeScript, JavaScript |
-| Test Automation | Playwright, Selenium, REST Assured, JUnit, pytest |
-| API Testing | REST APIs, Postman, ReadyAPI |
-| AI Engineering | Generative AI, LLM Integration, AI-Assisted Testing |
-| Cloud Technologies | AWS, Cloudflare |
-| CI/CD & DevOps | GitHub Actions, Jenkins, Git |
-| Web Technologies | Next.js, React, Node.js |
-| Quality Engineering | Test Automation Architecture, Regression Testing, Failure Analysis |
+My repositories demonstrate personal engineering work. Employer systems, source code, and confidential test data are not included.
 
----
+## Connect
 
-## Featured Engineering Projects
+For remote SDET and QA automation opportunities: **[erdal@eai.engineering](mailto:erdal@eai.engineering)**
 
-### 1. eAI Engineering
-
-**AI-Powered Software Quality Engineering Platform**
-
-An AI-powered platform integrating test automation, intelligent failure analysis, software quality dashboards, and interactive AI learning tools.
-
-**Technologies:** Next.js, TypeScript, React, Cloudflare Workers AI
-
-[View Repository](https://github.com/kilicerdal/eai-engineering) | [Live Application](https://www.eai.engineering)
-
-### 2. Playwright AI Automation
-
-**Modern UI and API Test Automation Framework**
-
-A Playwright and TypeScript automation project demonstrating UI testing, API validation, end-to-end testing, and CI/CD integration.
-
-**Technologies:** Playwright, TypeScript, GitHub Actions
-
-[View Repository](https://github.com/kilicerdal/playwright-ai-automation)
-
-### 3. AI Healthcare Quality Platform
-
-**Healthcare API Testing and Quality Engineering**
-
-A healthcare-focused engineering project demonstrating automated API testing, validation, and software quality practices.
-
-**Technologies:** JavaScript, Node.js, REST APIs
-
-[View Repository](https://github.com/kilicerdal/ai-healthcare-quality-platform)
-
----
-
-## Current Engineering Focus
-
-- AI-powered test automation and quality engineering
-- Generative AI integration into software testing workflows
-- Intelligent failure analysis and automated test generation
-- Cloud-based software engineering solutions
-- CI/CD automation and reliability improvements
-- Practical applications of LLMs in software development
-
----
-
-## Professional Links
-
-**Website:** [www.eai.engineering](https://www.eai.engineering)
-
-**LinkedIn:** [linkedin.com/in/erdalkilic](https://www.linkedin.com/in/erdalkilic/)
-
-**GitHub:** [github.com/kilicerdal](https://github.com/kilicerdal)
-
-**Email:** erdal@eai.engineering
-
----
-
-**eAI Engineering | INTELLIGENCE ENGINEERED**
+[www.eai.engineering](https://www.eai.engineering) · [linkedin.com/in/erdalkilic](https://www.linkedin.com/in/erdalkilic/)
