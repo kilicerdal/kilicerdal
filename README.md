@@ -10,6 +10,18 @@ I build automated tests for web applications and APIs, integrate them into CI/CD
 
 ## Selected projects
 
+### [SettlementLab](https://github.com/kilicerdal/settlementlab) · [Financial framework showcase](https://www.eai.engineering/engineering/settlementlab#showcase-v30)
+
+A Python financial systems assurance framework with a post-trade workbench and an independent collateral reservation API.
+
+- Independent trade matching, maker/checker approval, shared-ledger settlement, calendar controls, and reconciliation.
+- Reusable HTTP scenarios with JSON, HTML, and JUnit reports; detects a deliberately injected reservation replay defect.
+- Portable demonstration with an execution manifest and checksum verification.
+- Optional free local Ollama investigation with bounded evidence and no authority to change trades.
+- Synthetic local applications; no real financial data or production market connectivity.
+
+**Stack:** Python, SQLite, Playwright, Ollama, GitHub Actions.
+
 ### [Playwright AI Automation](https://github.com/kilicerdal/playwright-ai-automation)
 
 A Playwright and TypeScript portfolio framework for UI, API, and end-to-end testing.
