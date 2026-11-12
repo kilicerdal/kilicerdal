@@ -2,73 +2,35 @@
 
 ### Senior SDET | QA Automation Engineer
 
-I build automated tests for web applications and APIs, integrate them into CI/CD pipelines, and investigate failures across UI, service, and database layers.
+I build automation frameworks for web applications and APIs, integrate tests into CI/CD pipelines, and investigate failures across UI, service, and database layers.
 
-**9+ years in software quality engineering** across financial services, healthcare, and media. Based in New Jersey and seeking **fully remote Senior SDET / QA Automation Engineer roles**.
+**9+ years in software quality engineering** across financial services, healthcare, and media. Based in **New Jersey, USA**, and seeking **fully remote Senior SDET / QA Automation Engineer roles**.
 
 [Website](https://www.eai.engineering) · [LinkedIn](https://www.linkedin.com/in/erdalkilic/) · [Email](mailto:erdal@eai.engineering)
 
-## Selected projects
+## Selected engineering work
 
-### [SettlementLab](https://github.com/kilicerdal/settlementlab) · [Financial framework showcase](https://www.eai.engineering/engineering/settlementlab#showcase-v30)
+| Project | What it demonstrates | Explore |
+| --- | --- | --- |
+| [Playwright AI Automation](https://github.com/kilicerdal/playwright-ai-automation) | TypeScript UI/API automation, PostgreSQL commerce, cross-browser checks, and controlled defect detection. V5 records **223 distinct scenarios across 301 local test executions**. | [Watch demo](https://github.com/kilicerdal/playwright-ai-automation/releases/download/v5.0.0/v5-showcase-demo.webm) · [Results and scope](https://github.com/kilicerdal/playwright-ai-automation/blob/main/docs/verification.md) |
+| [SettlementLab](https://github.com/kilicerdal/settlementlab) | Python financial assurance: matching, maker/checker approval, settlement, and reconciliation. Reuses one assurance engine against an independent collateral API and detects an injected replay defect. | [Watch demo](https://github.com/kilicerdal/settlementlab/releases/download/v3.0.0/settlementlab-walkthrough.webm) · [Case study](https://www.eai.engineering/engineering/settlementlab) |
+| [Healthcare Quality Platform](https://github.com/kilicerdal/ai-healthcare-quality-platform) | Playwright API, contract, PostgreSQL, and simulated S3/SQS testing, including message redelivery and idempotency controls. | [Watch walkthrough](https://github.com/kilicerdal/ai-healthcare-quality-platform/blob/main/docs/media/walkthrough.webm?raw=true) · [Sample report](https://github.com/kilicerdal/ai-healthcare-quality-platform/blob/main/docs/samples/ai-validation-report.zip?raw=true) |
+| [eAI Engineering](https://github.com/kilicerdal/eai-engineering) | A deployed Next.js platform with an engineering assistant, AI learning tools, server-side integrations, and regression checks. | [Live website](https://www.eai.engineering) · [Architecture and checks](https://github.com/kilicerdal/eai-engineering#architecture-and-boundaries) |
 
-A Python financial systems assurance framework with a post-trade workbench and an independent collateral reservation API.
+**Evidence scope:** Playwright V5 results are recorded local runs; its hosted workflows and live model calls are disabled. Healthcare uses Moto to simulate AWS; its sample AI report covers eight deterministic checks. AI examples, recordings, and test results are labeled in each repository.
 
-- Independent trade matching, maker/checker approval, shared-ledger settlement, calendar controls, and reconciliation.
-- Reusable HTTP scenarios with JSON, HTML, and JUnit reports; detects a deliberately injected reservation replay defect.
-- Portable demonstration with an execution manifest and checksum verification.
-- Optional free local Ollama investigation with bounded evidence and no authority to change trades.
-- Synthetic local applications; no real financial data or production market connectivity.
+## Engineering judgment
 
-**Stack:** Python, SQLite, Playwright, Ollama, GitHub Actions.
+- [Atomic settlement and rollback](https://github.com/kilicerdal/settlementlab/blob/main/docs/decisions/001-atomic-settlement.md): keeping financial state and journal evidence consistent.
+- [Replay identity and stale writes](https://github.com/kilicerdal/settlementlab/blob/main/docs/decisions/002-replay-and-stale-writes.md): separating duplicate requests from concurrent changes.
+- [Healthcare failure cases](https://github.com/kilicerdal/ai-healthcare-quality-platform/blob/main/docs/ENGINEERING.md): queue retries, persistence, and validation decisions.
 
-### [Playwright AI Automation](https://github.com/kilicerdal/playwright-ai-automation)
+## Skills
 
-A Playwright and TypeScript portfolio framework for UI, API, and end-to-end testing.
+**Automation:** Playwright, Selenium, Cypress · **API:** REST Assured, Postman, Karate, contract testing  
+**Languages:** Java, TypeScript, JavaScript, Python, SQL · **Delivery:** GitHub Actions, Jenkins, GitLab CI/CD  
+**Quality engineering:** regression strategy, database validation, failure investigation · **Cloud and AI:** AWS, LLM integration, AI-assisted testing
 
-- Page Objects, custom fixtures, and deterministic test-data builders.
-- API clients and Zod contract validation.
-- GitHub Actions quality gates and failure artifacts, including traces and reports.
-- AI tools support development and review; tests run without an AI service.
+These repositories contain personal engineering work with synthetic data. Employer source code and confidential data are excluded.
 
-**Stack:** Playwright, TypeScript, Zod, GitHub Actions.
-
-### [AI Healthcare Quality Platform](https://github.com/kilicerdal/ai-healthcare-quality-platform)
-
-A healthcare claims testing project covering APIs, persistence, and event-driven integration.
-
-- Playwright API tests, AJV contract checks, and PostgreSQL validation.
-- S3 and SQS integration testing using local Moto simulation.
-- Local Ollama integration for test suggestions, failure analysis, and risk explanations.
-- Synthetic data only; this is a portfolio project with simulated AWS services.
-
-**Stack:** JavaScript, Node.js, Express, Playwright, PostgreSQL, AWS SDK, Moto, Ollama.
-
-### [eAI Engineering](https://github.com/kilicerdal/eai-engineering) · [Live website](https://www.eai.engineering)
-
-My independent AI engineering and learning platform. I design and maintain the web interface, server-side AI integrations, conversation tools, and learning workflows.
-
-**Built and deployed:** an engineering AI assistant for coding, debugging, testing, code review, and AWS questions; a learning studio with AI tutoring, learning plans, linked materials, lesson checks, and a mistake notebook.
-
-**Ongoing development:** expanding AI-assisted test generation and failure-analysis workflows, improving response quality, and refining learning tools.
-
-**Stack:** Next.js, React, TypeScript, Tailwind CSS, AI/LLM integrations, Supabase, Vercel.
-
-## Engineering skills
-
-| Area | Tools and practices |
-| --- | --- |
-| UI automation | Playwright, Selenium, Cypress |
-| API testing | REST Assured, Postman, Karate, REST APIs |
-| Languages | Java, TypeScript, JavaScript, Python, SQL |
-| Delivery | Git, GitHub Actions, Jenkins, GitLab CI/CD |
-| Quality engineering | Regression testing, contract testing, database validation, failure investigation |
-| Cloud and AI | AWS, LLM integration, AI-assisted testing |
-
-My repositories demonstrate personal engineering work. Employer systems, source code, and confidential test data are not included.
-
-## Connect
-
-For remote SDET and QA automation opportunities: **[erdal@eai.engineering](mailto:erdal@eai.engineering)**
-
-[www.eai.engineering](https://www.eai.engineering) · [linkedin.com/in/erdalkilic](https://www.linkedin.com/in/erdalkilic/)
+For remote SDET and QA automation opportunities: **[erdal@eai.engineering](mailto:erdal@eai.engineering)**.
