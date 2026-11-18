@@ -8,6 +8,8 @@ I build automation frameworks for web applications and APIs, integrate tests int
 
 [Website](https://www.eai.engineering) · [LinkedIn](https://www.linkedin.com/in/erdalkilic/) · [Email](mailto:erdal@eai.engineering)
 
+**For a quick review:** [Take the five-minute project tour](https://www.eai.engineering/engineering/tour) through checkout retries, claim redelivery, and settlement controls, with source links and evidence scope.
+
 ## Selected engineering work
 
 | Project | What it demonstrates | Explore |
@@ -35,6 +37,6 @@ I build automation frameworks for web applications and APIs, integrate tests int
 **Languages:** Java, TypeScript, JavaScript, Python, SQL · **Delivery:** GitHub Actions, Jenkins, GitLab CI/CD  
 **Quality engineering:** regression strategy, database validation, failure investigation · **Cloud and AI:** AWS, LLM integration, AI-assisted testing
 
-These repositories contain personal engineering work with synthetic data. Employer source code and confidential data are excluded.
+These repositories contain personal engineering projects with synthetic data. I set the direction and priorities and use AI assistance for implementation, test development, and documentation. Public source and dated verification records make the results inspectable. Employer source code and confidential data are excluded.
 
 For remote SDET and QA automation opportunities: **[erdal@eai.engineering](mailto:erdal@eai.engineering)**.
