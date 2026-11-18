@@ -26,3 +26,5 @@ These are synthetic personal projects. Recorded defect campaigns demonstrate the
 I set the direction and priorities for this portfolio and use AI assistance for implementation, test development and documentation. Public source and dated verification records make the resulting work inspectable. Employer source code and confidential data are excluded.
 
 **For remote SDET / QA automation opportunities: [erdal@eai.engineering](mailto:erdal@eai.engineering).**
+
+[Choose a project by engineering problem](https://github.com/kilicerdal/eai-engineering/blob/main/docs/PROJECTS.md) · [Five-minute reviewer paths](https://github.com/kilicerdal/eai-engineering/blob/main/docs/REVIEWER_GUIDE.md). Project counts and screenshots retain their dated source evidence; current CI is linked from each repository.
